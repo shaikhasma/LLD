@@ -1,4 +1,4 @@
-package CopyObject;
+package copy_object;
 
 class ShallowCopyDemo implements Cloneable{
     int x;

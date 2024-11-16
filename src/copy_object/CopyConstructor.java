@@ -1,4 +1,4 @@
-package CopyObject;
+package copy_object;
 class Student{
     int id;
     String name;
